@@ -9,15 +9,22 @@ Your Ultimate Quantum Resource Hub. A curated, ever-growing collection of the be
 
 <b><h3>Quantum Learning Roadmaps</h3></b>
 https://youtu.be/ZCkYT5VIQLQ?feature=shared
+https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-roadmap-activity-7327289342178086912-9DPU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+
 
 
 
 
 <b><h3>Quantum Books</h3></b>
+
 https://youtube.com/shorts/moa6aLZM29E?feature=shared
+https://youtu.be/0rmlc3YEOjM?feature=shared
+https://youtu.be/3Sjll3T5a34?feature=shared
+
 
 
 <b><h3>Quantum Courses</h3></b>
+
 https://youtu.be/w_KrPZJJbEk?feature=shared
 
 
@@ -66,6 +73,9 @@ https://youtube.com/playlist?list=PL7zofphMtPxG9y2qfrOZhOpNSZ3DLmqBD&feature=sha
 
 
 <b><h3>Quantum FAQs</h3></b>
+https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_answering-the-most-frequently-asked-questions-activity-7328795311034761216-xAEH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+https://youtu.be/rrxWmOBF5Uo?feature=shared
+
 
 
 
@@ -77,6 +87,9 @@ https://youtube.com/playlist?list=PL7zofphMtPxG9y2qfrOZhOpNSZ3DLmqBD&feature=sha
 <b><h3>Quantum Computing Applications</h3></b>
 
 
+<b><h3>Quantum Podcast </h3></b>
+
+https://youtu.be/PHpybk5AbMQ?feature=shared
 
 
 <b><h3>Other Quantum Resource Repos</h3></b>
