@@ -2,7 +2,7 @@
 
 <b><h3>The Hitchhiker's Guide to the Quantum Galaxy</h3></b>
 
-![image](https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources/blob/main/AT%20WORK.png)
+![image](https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources/blob/main/Ultimate%20Quantum%20Resources%20Images.png)
 
 Your Ultimate Quantum Resource Hub. A curated, ever-growing collection of the best quantum computing resources from beginner roadmaps to advanced research papers, tools, SDKs, projects, and career guides.  Perfect for students, researchers, and quantum-curious minds.
 
