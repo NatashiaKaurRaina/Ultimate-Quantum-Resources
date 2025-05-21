@@ -6,6 +6,8 @@
 
 Your Ultimate Quantum Resource Hub. A curated, ever-growing collection of the best quantum computing resources from beginner roadmaps to advanced research papers, tools, SDKs, projects, and career guides.  Perfect for students, researchers, and quantum-curious minds.
 
+<b><h2>This repository is still in progess and will updated daily. The resources linked here till now are only 1% of I still have discovered/made to date</h2></b>
+
 
 <b><h3>Quantum Learning Roadmaps</h3></b>
 
