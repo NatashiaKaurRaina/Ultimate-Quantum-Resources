@@ -16,7 +16,6 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-road
 
 
 
-
 <b><h3>Quantum Books</h3></b>
 
 https://youtube.com/shorts/moa6aLZM29E?feature=shared
@@ -31,10 +30,24 @@ https://youtu.be/3Sjll3T5a34?feature=shared
 
 https://youtu.be/w_KrPZJJbEk?feature=shared
 
+https://qworld.net/qclass24-25/
+
+https://www.qubitbyqubit.org/course-info
+
+
+
 
 <b><h3>Quantum Youtubers & Channels</h3></b>
 
 https://youtube.com/@natashiakaurraina?feature=shared
+
+https://youtube.com/@qiskit?feature=shared
+
+https://youtube.com/@pennylaneai?feature=shared
+
+https://youtube.com/@classiqtechnologies?feature=shared
+
+
 
 <b><h3>Quantum Hackathons</h3></b>
 
@@ -44,15 +57,17 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumhackathon-quant
 
 
 
+
+
 <b><h3>Quantum Repos to Contribute to(QSDKs an much more)</h3></b>
 
-Qiskit
+<b>Qiskit</b>
 
-CLassiq
+<b>CLassiq</b>
 
-Cirq
+<b>Cirq</b>
 
-Pennylane
+<b>Pennylane</b>
 
 
 <b><h3>Quantum Masters degrees</h3></b>
@@ -70,12 +85,15 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 
 <b><h3>Quantum Research Papers</h3></b>
 
-
+https://github.com/grageragarces/Quantum-tech-papers
 
 
 
 <b><h3>Quantum Internships</h3></b>
 
+https://qosf.org/qc_mentorship/
+
+https://qworld.net/qintern-2025/
 
 
 
@@ -88,6 +106,14 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 
 
 <b><h3>Quantum Companies, Startups & Organisations</h3></b>
+
+<b>Qiskit</b>
+
+<b>CLassiq</b>
+
+<b>Google</b>
+
+<b>Xanadu</b>
 
 
 
@@ -105,6 +131,10 @@ https://youtu.be/rrxWmOBF5Uo?feature=shared
 
 <b><h3>Quantum Summer Schools</h3></b>
 
+https://youtube.com/playlist?list=PLOFEBzvs-Vvr-GzDWlZpAcDpki5jUqYJu&feature=shared
+
+https://youtube.com/playlist?list=PLOFEBzvs-VvqoeIypXYLLf0PY-WOQMLR3&feature=shared
+
 
 
 
@@ -115,13 +145,22 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantummachinelearning-qml-activity-7310901289213652994-0KNf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
 
-<b><h3>Quantum Podcast </h3></b>
+
+
+<b><h3>Quantum Podcasts</h3></b>
 
 https://youtu.be/PHpybk5AbMQ?feature=shared
 
 https://open.spotify.com/episode/1TFpAPoj8fySIyuXnblZkk
 
 
-<b><h3>Other Quantum Resource Repos</h3></b>
 
+
+<b><h3>Other Quantum Resource Repositories</h3></b>
+
+https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources
+
+https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+
+https://github.com/grageragarces/Quantum-tech-papers
 
