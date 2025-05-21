@@ -81,6 +81,24 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumindia-nationalq
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumtechnology-quantumindia-activity-7305106213317263360-4AGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
 
+<b><h3>Quantum Project Ideas</h3></b>
+
+Grover’s Search Algorithm 
+
+Shor’s Algorithm
+
+Quantum Key Distribution (BB84 Protocol)
+
+Quantum Random Number Generator
+
+Variational Quantum Eigensolver (VQE)
+
+Quantum GAN (QGAN)
+
+Quantum Error Correction Code Simulation
+
+Hybrid Quantum-Classical Neural Network
+
 
 
 <b><h3>Quantum Research Papers</h3></b>
