@@ -136,9 +136,37 @@ https://github.com/grageragarces/Quantum-tech-papers
 
 <b><h3>Quantum Internships</h3></b>
 
+https://chicagoquantum.org/education-and-training/internships
+
+https://www.ibm.com/careers/internships
+
+https://jobs.careers.microsoft.com/us/en/job/1811504
+
+https://www.ibm.com/quantum/blog/quantum-interns-get-ready
+
 https://qosf.org/qc_mentorship/
 
+https://internships.fnal.gov/quantum-computing-internship-for-physics-undergraduates-program/
+
+https://qmunity.thequantuminsider.com/2024/10/09/biggest-summer-2025-quantum-computing-internships/
+
+https://www.indiascienceandtechnology.gov.in/internships/q-daksha-student-internship-program-2025
+
+https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool
+
 https://qworld.net/qintern-2025/
+
+https://github.com/european-summer-of-code/esoc2025?tab=readme-ov-file
+
+https://summerofcode.withgoogle.com/
+
+https://www.outreachy.org/
+
+https://surge.iitk.ac.in/
+
+https://www.linkedin.com/jobs/view/4025406311/
+
+
 
 
 
