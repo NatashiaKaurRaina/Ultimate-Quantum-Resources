@@ -175,6 +175,37 @@ https://www.linkedin.com/jobs/view/4025406311/
 
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumcareers-quantummachinelearning-activity-7324755372886364160-J3rD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
+https://lnkd.in/guTT89eh
+
+https://lnkd.in/gMBN6-vi
+
+https://lnkd.in/gwcgY7di
+
+https://lnkd.in/gGmhp3Bf
+
+https://lnkd.in/g4X256VX
+
+https://lnkd.in/gmyfSHgu
+
+https://lnkd.in/gSfhJ__V
+
+https://lnkd.in/gNJQHCqW
+
+https://lnkd.in/gGtSPYJB
+
+https://lnkd.in/gtGzkDwV
+
+https://lnkd.in/gjrsDKBR
+
+https://lnkd.in/gCzn9DXr
+
+https://lnkd.in/g7WF5tnJ
+
+https://lnkd.in/gSxtV9vj
+
+https://lnkd.in/gyCsXEbi
+
+
 
 
 
