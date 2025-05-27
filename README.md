@@ -82,6 +82,10 @@ https://youtu.be/McfbW1hjRTw?feature=shared
 
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumhackathon-quantum-hackathons-activity-7303822237558611968-dPbP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
+https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumevents-quantumtech-activity-7325508837904461826-cWPv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+
+https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumhackathon-qml-activity-7320882091741560834-_Se3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+
 
 
 
