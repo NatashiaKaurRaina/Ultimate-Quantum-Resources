@@ -69,7 +69,6 @@ https://www.youtube.com/@quantum_computing
 
 
 
-
 <b><h3>Quantum Youtubers & Channels</h3></b>
 
 https://youtube.com/@natashiakaurraina?feature=shared
