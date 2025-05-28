@@ -47,6 +47,7 @@ https://www.amazon.in/dp/B0787W4VFK?ref_=ppx_hzsearch_a_conn_dt_b_pd_5
 
 https://www.amazon.in/dp/B08ZSFRP2K?ref_=ppx_hzsearch_a_conn_dt_b_pd_6
 
+https://www.amazon.com/Quantum-Computing-Architecture-Hardware-Engineers/dp/3031782186
 
 
 
@@ -61,6 +62,11 @@ https://qworld.net/qclass24-25/
 
 https://www.qubitbyqubit.org/course-info
 
+https://github.com/hywong2/Quantum_Computing_Architecture
+
+https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
+
+
 
 
 
@@ -73,6 +79,8 @@ https://youtube.com/@qiskit?feature=shared
 https://youtube.com/@pennylaneai?feature=shared
 
 https://youtube.com/@classiqtechnologies?feature=shared
+
+https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
 
 
 
