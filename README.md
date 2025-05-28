@@ -64,7 +64,7 @@ https://www.qubitbyqubit.org/course-info
 
 https://github.com/hywong2/Quantum_Computing_Architecture
 
-https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
+https://www.youtube.com/@quantum_computing
 
 
 
