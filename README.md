@@ -14,6 +14,8 @@ https://youtu.be/ZCkYT5VIQLQ?feature=shared
 
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-roadmap-activity-7327289342178086912-9DPU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
+https://www.qucode.in/roadmap.html
+
 
 
 
@@ -278,4 +280,8 @@ https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources
 https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 https://github.com/grageragarces/Quantum-tech-papers
+
+https://www.qucode.in/quresource.html
+
+
 
