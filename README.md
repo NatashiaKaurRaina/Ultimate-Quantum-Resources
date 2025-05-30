@@ -283,5 +283,7 @@ https://github.com/grageragarces/Quantum-tech-papers
 
 https://www.qucode.in/quresource.html
 
+https://github.com/qucode-in/21-Days-Challenge
 
+https://www.qucode.in/quresource.html
 
