@@ -8,6 +8,8 @@
 
 Your Ultimate Quantum Resource Hub. A curated, ever-growing collection of the best quantum computing resources from beginner roadmaps to advanced research papers, tools, SDKs, projects, and career guides.  Perfect for students, researchers, and quantum-curious minds.
 
+---
+
 <b><h3>Quantum Learning Roadmaps</h3></b>
 
 https://youtu.be/ZCkYT5VIQLQ?feature=shared
@@ -16,7 +18,7 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-road
 
 https://www.qucode.in/roadmap.html
 
-
+---
 
 
 <b><h3>Quantum Books</h3></b>
@@ -52,7 +54,7 @@ https://www.amazon.in/dp/B08ZSFRP2K?ref_=ppx_hzsearch_a_conn_dt_b_pd_6
 https://www.amazon.com/Quantum-Computing-Architecture-Hardware-Engineers/dp/3031782186
 
 
-
+---
 
 
 
@@ -68,7 +70,7 @@ https://github.com/hywong2/Quantum_Computing_Architecture
 
 https://www.youtube.com/@quantum_computing
 
-
+---
 
 
 <b><h3>Quantum Youtubers & Channels</h3></b>
@@ -83,7 +85,7 @@ https://youtube.com/@classiqtechnologies?feature=shared
 
 https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
 
-
+---
 
 <b><h3>Quantum Hackathons</h3></b>
 
@@ -96,7 +98,7 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumhackathon-qml-activity-7320882091741560834-_Se3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
 
-
+---
 
 
 <b><h3>Quantum Repos to Contribute to(QSDKs an much more)</h3></b>
@@ -110,6 +112,9 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 <b>Pennylane</b>
 
 
+---
+
+
 <b><h3>Quantum Masters degrees</h3></b>
 
 https://youtube.com/playlist?list=PL7zofphMtPxG9y2qfrOZhOpNSZ3DLmqBD&feature=shared
@@ -119,6 +124,9 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-quantumresearc
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumindia-nationalquantummission-quantumcomputing-activity-7310282536671137792-Mjup?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumtechnology-quantumindia-activity-7305106213317263360-4AGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+
+
+---
 
 
 <b><h3>Quantum Project Ideas</h3></b>
@@ -139,12 +147,14 @@ Quantum Error Correction Code Simulation
 
 Hybrid Quantum-Classical Neural Network
 
-
+---
 
 <b><h3>Quantum Research Papers</h3></b>
 
 https://github.com/grageragarces/Quantum-tech-papers
 
+
+---
 
 
 <b><h3>Quantum Internships</h3></b>
@@ -182,7 +192,7 @@ https://www.linkedin.com/jobs/view/4025406311/
 https://cs.lbl.gov/news-and-events/summer-program/summer-info/
 
 
-
+---
 
 
 <b><h3>Quantum Careers</h3></b>
@@ -220,7 +230,7 @@ https://lnkd.in/gSxtV9vj
 https://lnkd.in/gyCsXEbi
 
 
-
+---
 
 
 <b><h3>Quantum Companies, Startups & Organisations</h3></b>
@@ -234,7 +244,7 @@ https://lnkd.in/gyCsXEbi
 <b>Xanadu</b>
 
 
-
+---
 
 
 <b><h3>Quantum FAQs</h3></b>
@@ -244,7 +254,7 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_answering-the-most-fre
 https://youtu.be/rrxWmOBF5Uo?feature=shared
 
 
-
+---
 
 
 <b><h3>Quantum Summer Schools</h3></b>
@@ -255,6 +265,8 @@ https://youtube.com/playlist?list=PLOFEBzvs-VvqoeIypXYLLf0PY-WOQMLR3&feature=sha
 
 
 
+---
+
 
 <b><h3>Quantum Computing Applications</h3></b>
 
@@ -262,6 +274,8 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 
 https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantummachinelearning-qml-activity-7310901289213652994-0KNf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
 
+
+---
 
 
 
@@ -272,6 +286,7 @@ https://youtu.be/PHpybk5AbMQ?feature=shared
 https://open.spotify.com/episode/1TFpAPoj8fySIyuXnblZkk
 
 
+---
 
 
 <b><h3>Other Quantum Resource Repositories</h3></b>
