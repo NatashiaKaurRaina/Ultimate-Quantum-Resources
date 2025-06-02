@@ -103,13 +103,13 @@ https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quant
 
 <b><h3>Quantum Repos to Contribute to(QSDKs an much more)</h3></b>
 
-<b>Qiskit</b>
+<b>Qiskit</b> - https://github.com/Qiskit/qiskit
 
-<b>CLassiq</b>
+<b>CLassiq</b> - https://github.com/Classiq/classiq-library
 
-<b>Cirq</b>
+<b>Cirq</b> - https://github.com/quantumlib/Cirq
 
-<b>Pennylane</b>
+<b>Pennylane</b> - https://github.com/PennyLaneAI/pennylane
 
 
 ---
