@@ -191,6 +191,25 @@ https://www.linkedin.com/jobs/view/4025406311/
 
 https://cs.lbl.gov/news-and-events/summer-program/summer-info/
 
+https://www.ibm.com/careers/internships
+
+https://summerofcode.withgoogle.com/programs/2025/projects/gTuguCKx
+
+https://summerofcode.withgoogle.com/programs/2025/projects/gTuguCKx
+
+https://quantuminternetalliance.org/2025/04/14/building-for-one-europe-qia-internship-programme-2025/
+
+https://home.cern/summer-student-programme
+
+https://careers.cern/summer
+
+https://jobs.smartrecruiters.com/CERN/744000024797745-cern-openlab-summer-student-programme-2025
+
+https://jobs.smartrecruiters.com/CERN/744000024807805-cern-summer-student-programme-2025-member-and-non-member-state-
+
+https://ml4q.de/ml4q-internship/
+
+
 
 ---
 
