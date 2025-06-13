@@ -53,6 +53,9 @@ https://www.amazon.in/dp/B08ZSFRP2K?ref_=ppx_hzsearch_a_conn_dt_b_pd_6
 
 https://www.amazon.com/Quantum-Computing-Architecture-Hardware-Engineers/dp/3031782186
 
+https://www.amazon.in/gp/product/B08B3MVXHB/ref=kinw_myk_ro_title#detailBullets_feature_div
+
+https://www.amazon.in/Quantum-Computing-Experimentation-Amazon-Braket/dp/1800565267
 
 ---
 
