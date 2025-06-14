@@ -73,6 +73,10 @@ https://github.com/hywong2/Quantum_Computing_Architecture
 
 https://www.youtube.com/@quantum_computing
 
+https://github.com/hywong2/Quantum_Computing_Architecture/tree/main/Teaching%20Slides
+
+https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
+
 ---
 
 
@@ -324,4 +328,6 @@ https://www.qucode.in/quresource.html
 https://github.com/qucode-in/21-Days-Challenge
 
 https://www.qucode.in/quresource.html
+
+https://github.com/hywong2/Quantum_Computing_Architecture/tree/main/Teaching%20Slides
 
