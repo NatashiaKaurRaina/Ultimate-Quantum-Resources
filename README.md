@@ -264,6 +264,12 @@ https://github.com/emredurukn/awesome-job-boards
 
 ---
 
+<b><h3>Quantum Job Interview Prep</h3></b>
+
+https://veedaily19.substack.com/p/master-dsa-in-14-weeks
+
+
+---
 
 <b><h3>Quantum Companies, Startups & Organisations</h3></b>
 
