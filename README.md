@@ -268,6 +268,33 @@ https://github.com/emredurukn/awesome-job-boards
 
 https://veedaily19.substack.com/p/master-dsa-in-14-weeks
 
+https://veedaily19.substack.com/p/5x-your-interview-calls
+
+https://veedaily19.substack.com/p/standout-from-the-crowd
+
+https://veedaily19.substack.com/p/apple-interview-prep
+
+https://veedaily19.substack.com/p/no-need-to-pay-for-leetcode-premium
+
+https://github.com/jobream/Leetcode-Company-Wise-Problems
+
+https://github.com/ManikantaSanjay/LeetCode-Curated-SQL-70
+
+https://veedaily19.substack.com/archive
+
+https://veedaily19.substack.com/p/16-core-dsa-patterns
+
+https://veedaily19.substack.com/p/ai-proof-your-sde-career
+
+https://veedaily19.substack.com/p/resources-to-master-dsa
+
+https://veedaily19.substack.com/p/avoid-ghost-jobs
+
+https://veedaily19.substack.com/p/6-month-roadmap-for-getting-a-job
+
+https://veedaily19.substack.com/p/resume-optimization-tips
+
+
 
 ---
 
