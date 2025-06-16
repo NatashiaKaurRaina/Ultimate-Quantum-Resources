@@ -77,6 +77,8 @@ https://github.com/hywong2/Quantum_Computing_Architecture/tree/main/Teaching%20S
 
 https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
 
+https://www.youtube.com/@AdvancedMath/playlists
+
 ---
 
 
@@ -91,6 +93,8 @@ https://youtube.com/@pennylaneai?feature=shared
 https://youtube.com/@classiqtechnologies?feature=shared
 
 https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
+
+https://www.youtube.com/@AdvancedMath/playlists
 
 ---
 
