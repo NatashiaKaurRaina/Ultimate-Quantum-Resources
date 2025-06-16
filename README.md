@@ -220,6 +220,7 @@ https://jobs.smartrecruiters.com/CERN/744000024807805-cern-summer-student-progra
 
 https://ml4q.de/ml4q-internship/
 
+https://github.com/emredurukn/awesome-job-boards
 
 
 ---
@@ -259,6 +260,7 @@ https://lnkd.in/gSxtV9vj
 
 https://lnkd.in/gyCsXEbi
 
+https://github.com/emredurukn/awesome-job-boards
 
 ---
 
