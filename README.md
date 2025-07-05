@@ -65,6 +65,8 @@ https://www.amazon.in/Quantum-Computing-Experimentation-Amazon-Braket/dp/1800565
 
 https://youtu.be/w_KrPZJJbEk?feature=shared
 
+https://www.qsecdef.com/?via=kiran
+
 https://qworld.net/qclass24-25/
 
 https://www.qubitbyqubit.org/course-info
