@@ -166,6 +166,7 @@ Hybrid Quantum-Classical Neural Network
 
 https://github.com/grageragarces/Quantum-tech-papers
 
+https://pennylane.ai/blog/2025/06/top-quantum-algorithms-papers-spring-2025?utm_source=linkedin&utm_medium=pennylane_social&utm_campaign=top_quantum_algorithms_papers&utm_content=https%3A%2F%2Fpennylane.ai%2Fblog%2F2025%2F06%2Ftop-quantum-algorithms-papers-spring-2025
 
 ---
 
