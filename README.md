@@ -1,375 +1,201 @@
-# The Ultimate Quantum Resources Repo
+# 🌌 The Ultimate Quantum Resources Repository
 
-<b><h3>The Hitchhiker's Guide to the Quantum Galaxy</h3></b>
+<div align="center">
+  <h2>🚀 The Hitchhiker's Guide to the Quantum Galaxy</h2>
+  <p><em>Your one-stop destination for everything quantum computing</em></p>
+  <img width="1080" height="1588" alt="image" src="https://github.com/user-attachments/assets/cdde4d7c-b09a-45eb-9786-5567824295c6" />
 
-![image](https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources/blob/main/Ultimate%20Quantum%20Resources%20Images.png)
-
-<b><h2>This repository is still in progess and will be updated daily. The resources linked here till now are only 1% of what I have discovered/made to date.</h2></b>
-
-Your Ultimate Quantum Resource Hub. A curated, ever-growing collection of the best quantum computing resources from beginner roadmaps to advanced research papers, tools, SDKs, projects, and career guides.  Perfect for students, researchers, and quantum-curious minds.
-
----
-
-<b><h3>Quantum Learning Roadmaps</h3></b>
-
-https://youtu.be/ZCkYT5VIQLQ?feature=shared
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-roadmap-activity-7327289342178086912-9DPU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://www.qucode.in/roadmap.html
+ 
+</div>
 
 ---
 
+## 📖 About This Repository
 
-<b><h3>Quantum Books</h3></b>
+Welcome to the most comprehensive quantum computing resource hub on GitHub! This curated collection brings together the best quantum computing resources, from beginner-friendly roadmaps to cutting-edge research papers. Whether you're a student taking your first quantum leap or a researcher pushing the boundaries of quantum science, you'll find everything you need right here.
 
-https://youtube.com/shorts/moa6aLZM29E?feature=shared
-
-https://youtu.be/0rmlc3YEOjM?feature=shared
-
-https://youtu.be/3Sjll3T5a34?feature=shared
-
-https://www.amazon.in/dp/9332580952?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2
-
-https://www.amazon.in/dp/1009498274/?coliid=IXIQDP9O8KZ7G&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/303136984X/?coliid=I38QPH9I22I2M8&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/3031782186/?coliid=I21B18UB80F7ZQ&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/1638280584/?coliid=I2847Z1JRZZAJC&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/3031664760/?coliid=I16H6EULV1QGZH&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/303012360X/?coliid=IKQWEGHDWYO83&colid=2GF81VLXYUCEH&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
-
-https://www.amazon.in/dp/B0DZ1836B9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
-
-https://www.amazon.in/dp/812656105X?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3
-
-https://www.amazon.in/dp/B0787W4VFK?ref_=ppx_hzsearch_a_conn_dt_b_pd_5
-
-https://www.amazon.in/dp/B08ZSFRP2K?ref_=ppx_hzsearch_a_conn_dt_b_pd_6
-
-https://www.amazon.com/Quantum-Computing-Architecture-Hardware-Engineers/dp/3031782186
-
-https://www.amazon.in/gp/product/B08B3MVXHB/ref=kinw_myk_ro_title#detailBullets_feature_div
-
-https://www.amazon.in/Quantum-Computing-Experimentation-Amazon-Braket/dp/1800565267
+> 🚧 **Note:** This repository is continuously evolving with daily updates. The resources you see here represent just 1% of our growing collection!
 
 ---
 
+## 🎯 Who Is This For?
 
-
-<b><h3>Quantum Courses</h3></b>
-
-https://youtu.be/w_KrPZJJbEk?feature=shared
-
-https://www.qsecdef.com/?via=kiran
-
-https://qworld.net/qclass24-25/
-
-https://www.qubitbyqubit.org/course-info
-
-https://github.com/hywong2/Quantum_Computing_Architecture
-
-https://www.youtube.com/@quantum_computing
-
-https://github.com/hywong2/Quantum_Computing_Architecture/tree/main/Teaching%20Slides
-
-https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
-
-https://www.youtube.com/@AdvancedMath/playlists
+- 🎓 **Students** starting their quantum journey
+- 🔬 **Researchers** exploring quantum frontiers  
+- 💼 **Professionals** transitioning to quantum careers
+- 🧠 **Quantum-curious minds** ready to explore
 
 ---
 
+## 🗺️ Learning Roadmaps
 
-<b><h3>Quantum Youtubers & Channels</h3></b>
+Start your quantum adventure with these structured learning paths:
 
-https://youtube.com/@natashiakaurraina?feature=shared
-
-https://youtube.com/@qiskit?feature=shared
-
-https://youtube.com/@pennylaneai?feature=shared
-
-https://youtube.com/@classiqtechnologies?feature=shared
-
-https://www.youtube.com/playlist?list=PLnK6MrIqGXsKpkN3nL1OlxW6Gr6srYt0C
-
-https://www.youtube.com/@AdvancedMath/playlists
+- 📺 [Quantum Computing Roadmap Video](https://youtu.be/ZCkYT5VIQLQ?feature=shared)
+- 💼 [Professional Quantum Career Path](https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-computing-roadmap-activity-7327289342178086912-9DPU)
 
 ---
 
-<b><h3>Quantum Hackathons</h3></b>
+## 📚 Essential Reading
 
-https://youtu.be/McfbW1hjRTw?feature=shared
+### 🔥 Must-Read Books
+Dive deep into quantum theory with these handpicked titles:
 
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumhackathon-quantum-hackathons-activity-7303822237558611968-dPbP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
+- 📖 [Quantum Computing: Architecture and Hardware](https://www.amazon.com/Quantum-Computing-Architecture-Hardware-Engineers/dp/3031782186)
+- 📖 [Quantum Computing with Amazon Braket](https://www.amazon.in/Quantum-Computing-Experimentation-Amazon-Braket/dp/1800565267)
+- 📖 [Programming Quantum Computers](https://www.amazon.in/dp/1009498274)
 
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumevents-quantumtech-activity-7325508837904461826-cWPv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumhackathon-qml-activity-7320882091741560834-_Se3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-
----
-
-
-<b><h3>Quantum Repos to Contribute to(QSDKs an much more)</h3></b>
-
-<b>Qiskit</b> - https://github.com/Qiskit/qiskit
-
-<b>CLassiq</b> - https://github.com/Classiq/classiq-library
-
-<b>Cirq</b> - https://github.com/quantumlib/Cirq
-
-<b>Pennylane</b> - https://github.com/PennyLaneAI/pennylane
-
+*[View complete book collection →](https://youtube.com/shorts/moa6aLZM29E?feature=shared)*
 
 ---
 
+## 🎓 Courses & Training
 
-<b><h3>Quantum Masters degrees</h3></b>
+### 🌟 Featured Courses
+- 🎯 [QSec Defense - Quantum Security](https://www.qsecdef.com/?via=kiran)
+- 🌍 [QWorld QClass](https://qworld.net/qclass24-25/)
+- 🎓 [Qubit by Qubit](https://www.qubitbyqubit.org/course-info)
+- 🏛️ [Quantum Computing Architecture](https://github.com/hywong2/Quantum_Computing_Architecture)
 
-https://youtube.com/playlist?list=PL7zofphMtPxG9y2qfrOZhOpNSZ3DLmqBD&feature=shared
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantum-quantumresearch-universities-activity-7311595313826316288-Ln4D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumindia-nationalquantummission-quantumcomputing-activity-7310282536671137792-Mjup?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumtechnology-quantumindia-activity-7305106213317263360-4AGZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-
----
-
-
-<b><h3>Quantum Project Ideas</h3></b>
-
-Grover’s Search Algorithm 
-
-Shor’s Algorithm
-
-Quantum Key Distribution (BB84 Protocol)
-
-Quantum Random Number Generator
-
-Variational Quantum Eigensolver (VQE)
-
-Quantum GAN (QGAN)
-
-Quantum Error Correction Code Simulation
-
-Hybrid Quantum-Classical Neural Network
+### 📺 YouTube Channels
+- 🎥 [Qiskit Official](https://youtube.com/@qiskit?feature=shared)
+- 🎥 [PennyLane AI](https://youtube.com/@pennylaneai?feature=shared)
+- 🎥 [Classiq Technologies](https://youtube.com/@classiqtechnologies?feature=shared)
+- 🎥 [Quantum Computing by Natasha](https://youtube.com/@natashiakaurraina?feature=shared)
 
 ---
 
-<b><h3>Quantum Research Papers</h3></b>
+## 🏆 Hackathons & Competitions
 
-https://github.com/grageragarces/Quantum-tech-papers
+Get hands-on experience and showcase your quantum skills:
 
-https://pennylane.ai/blog/2025/06/top-quantum-algorithms-papers-spring-2025?utm_source=linkedin&utm_medium=pennylane_social&utm_campaign=top_quantum_algorithms_papers&utm_content=https%3A%2F%2Fpennylane.ai%2Fblog%2F2025%2F06%2Ftop-quantum-algorithms-papers-spring-2025
-
----
-
-
-<b><h3>Quantum Internships</h3></b>
-
-https://chicagoquantum.org/education-and-training/internships
-
-https://www.ibm.com/careers/internships
-
-https://jobs.careers.microsoft.com/us/en/job/1811504
-
-https://www.ibm.com/quantum/blog/quantum-interns-get-ready
-
-https://qosf.org/qc_mentorship/
-
-https://internships.fnal.gov/quantum-computing-internship-for-physics-undergraduates-program/
-
-https://qmunity.thequantuminsider.com/2024/10/09/biggest-summer-2025-quantum-computing-internships/
-
-https://www.indiascienceandtechnology.gov.in/internships/q-daksha-student-internship-program-2025
-
-https://www.lanl.gov/engage/collaboration/internships/summer-schools/quantumschool
-
-https://qworld.net/qintern-2025/
-
-https://github.com/european-summer-of-code/esoc2025?tab=readme-ov-file
-
-https://summerofcode.withgoogle.com/
-
-https://www.outreachy.org/
-
-https://surge.iitk.ac.in/
-
-https://www.linkedin.com/jobs/view/4025406311/
-
-https://cs.lbl.gov/news-and-events/summer-program/summer-info/
-
-https://www.ibm.com/careers/internships
-
-https://summerofcode.withgoogle.com/programs/2025/projects/gTuguCKx
-
-https://summerofcode.withgoogle.com/programs/2025/projects/gTuguCKx
-
-https://quantuminternetalliance.org/2025/04/14/building-for-one-europe-qia-internship-programme-2025/
-
-https://home.cern/summer-student-programme
-
-https://careers.cern/summer
-
-https://jobs.smartrecruiters.com/CERN/744000024797745-cern-openlab-summer-student-programme-2025
-
-https://jobs.smartrecruiters.com/CERN/744000024807805-cern-summer-student-programme-2025-member-and-non-member-state-
-
-https://ml4q.de/ml4q-internship/
-
-https://github.com/emredurukn/awesome-job-boards
-
+- 🏅 [Quantum Hackathon Guide](https://youtu.be/McfbW1hjRTw?feature=shared)
+- 🏅 [Latest Quantum Competitions](https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumhackathon-quantum-hackathons-activity-7303822237558611968-dPbP)
 
 ---
 
+## 🛠️ Development Tools & SDKs
 
-<b><h3>Quantum Careers</h3></b>
+### 🔧 Essential Quantum SDKs
+Contribute to the quantum ecosystem:
 
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumcareers-quantummachinelearning-activity-7324755372886364160-J3rD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://lnkd.in/guTT89eh
-
-https://lnkd.in/gMBN6-vi
-
-https://lnkd.in/gwcgY7di
-
-https://lnkd.in/gGmhp3Bf
-
-https://lnkd.in/g4X256VX
-
-https://lnkd.in/gmyfSHgu
-
-https://lnkd.in/gSfhJ__V
-
-https://lnkd.in/gNJQHCqW
-
-https://lnkd.in/gGtSPYJB
-
-https://lnkd.in/gtGzkDwV
-
-https://lnkd.in/gjrsDKBR
-
-https://lnkd.in/gCzn9DXr
-
-https://lnkd.in/g7WF5tnJ
-
-https://lnkd.in/gSxtV9vj
-
-https://lnkd.in/gyCsXEbi
-
-https://github.com/emredurukn/awesome-job-boards
+| SDK | Description | Repository |
+|-----|-------------|------------|
+| **Qiskit** | IBM's quantum computing framework | [GitHub](https://github.com/Qiskit/qiskit) |
+| **Cirq** | Google's quantum computing library | [GitHub](https://github.com/quantumlib/Cirq) |
+| **PennyLane** | Cross-platform quantum ML library | [GitHub](https://github.com/PennyLaneAI/pennylane) |
+| **Classiq** | High-level quantum software platform | [GitHub](https://github.com/Classiq/classiq-library) |
 
 ---
 
-<b><h3>Quantum Job Interview Prep</h3></b>
+## 🚀 Project Ideas
 
-https://veedaily19.substack.com/p/master-dsa-in-14-weeks
+### 💡 Beginner Projects
+- 🔍 Grover's Search Algorithm
+- 🔐 Quantum Key Distribution (BB84 Protocol)
+- 🎲 Quantum Random Number Generator
 
-https://veedaily19.substack.com/p/5x-your-interview-calls
-
-https://veedaily19.substack.com/p/standout-from-the-crowd
-
-https://veedaily19.substack.com/p/apple-interview-prep
-
-https://veedaily19.substack.com/p/no-need-to-pay-for-leetcode-premium
-
-https://github.com/jobream/Leetcode-Company-Wise-Problems
-
-https://github.com/ManikantaSanjay/LeetCode-Curated-SQL-70
-
-https://veedaily19.substack.com/archive
-
-https://veedaily19.substack.com/p/16-core-dsa-patterns
-
-https://veedaily19.substack.com/p/ai-proof-your-sde-career
-
-https://veedaily19.substack.com/p/resources-to-master-dsa
-
-https://veedaily19.substack.com/p/avoid-ghost-jobs
-
-https://veedaily19.substack.com/p/6-month-roadmap-for-getting-a-job
-
-https://veedaily19.substack.com/p/resume-optimization-tips
-
-
+### 🔬 Advanced Projects
+- ⚛️ Shor's Algorithm Implementation
+- 🧬 Variational Quantum Eigensolver (VQE)
+- 🤖 Quantum GAN (QGAN)
+- 🛡️ Quantum Error Correction Simulation
+- 🧠 Hybrid Quantum-Classical Neural Network
 
 ---
 
-<b><h3>Quantum Companies, Startups & Organisations</h3></b>
+## 🎓 Academic Opportunities
 
-<b>Qiskit</b>
+### 🏫 Master's Programs
+- 📋 [Global Quantum Master's Programs](https://youtube.com/playlist?list=PL7zofphMtPxG9y2qfrOZhOpNSZ3DLmqBD&feature=shared)
+- 🇮🇳 [Quantum Programs in India](https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumindia-nationalquantummission-quantumcomputing-activity-7310282536671137792-Mjup)
 
-<b>CLassiq</b>
-
-<b>Google</b>
-
-<b>Xanadu</b>
-
-
----
-
-
-<b><h3>Quantum FAQs</h3></b>
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_answering-the-most-frequently-asked-questions-activity-7328795311034761216-xAEH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://youtu.be/rrxWmOBF5Uo?feature=shared
-
+### 🌞 Summer Schools
+- 🏫 [Quantum Summer School Collection](https://youtube.com/playlist?list=PLOFEBzvs-Vvr-GzDWlZpAcDpki5jUqYJu&feature=shared)
+- 🎓 [Advanced Quantum Training](https://youtube.com/playlist?list=PLOFEBzvs-VvqoeIypXYLLf0PY-WOQMLR3&feature=shared)
 
 ---
 
+## 💼 Career Opportunities
 
-<b><h3>Quantum Summer Schools</h3></b>
+### 🔍 Internships
+- 🏢 [IBM Quantum Internships](https://www.ibm.com/careers/internships)
+- 🏢 [Microsoft Quantum Internships](https://jobs.careers.microsoft.com/us/en/job/1811504)
+- 🏢 [CERN Summer Programs](https://home.cern/summer-student-programme)
+- 🌍 [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- 🇮🇳 [Q-DAKSHA India Program](https://www.indiascienceandtechnology.gov.in/internships/q-daksha-student-internship-program-2025)
 
-https://youtube.com/playlist?list=PLOFEBzvs-Vvr-GzDWlZpAcDpki5jUqYJu&feature=shared
-
-https://youtube.com/playlist?list=PLOFEBzvs-VvqoeIypXYLLf0PY-WOQMLR3&feature=shared
-
-
-
----
-
-
-<b><h3>Quantum Computing Applications</h3></b>
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantummachinelearning-qml-activity-7319622326373822464-_nBJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
-https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantummachinelearning-qml-activity-7310901289213652994-0KNf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlXiNEByusgoknTL8GHUiHGSP80vnU-usA
-
+### 💼 Full-Time Opportunities
+- 🔗 [Latest Quantum Job Listings](https://www.linkedin.com/posts/kiran-kaur-raina-b2922622a_quantumcomputing-quantumcareers-quantummachinelearning-activity-7324755372886364160-J3rD)
+- 🔗 [Quantum Career Resources](https://github.com/emredurukn/awesome-job-boards)
 
 ---
 
+## 📋 Interview Preparation
 
-
-<b><h3>Quantum Podcasts</h3></b>
-
-https://youtu.be/PHpybk5AbMQ?feature=shared
-
-https://open.spotify.com/episode/1TFpAPoj8fySIyuXnblZkk
-
+### 🎯 Technical Prep
+- 📊 [DSA Master Guide](https://veedaily19.substack.com/p/master-dsa-in-14-weeks)
+- 💻 [LeetCode Company Problems](https://github.com/jobream/Leetcode-Company-Wise-Problems)
+- 🏆 [Interview Success Strategies](https://veedaily19.substack.com/p/5x-your-interview-calls)
 
 ---
 
+## 🏢 Leading Quantum Companies
 
-<b><h3>Other Quantum Resource Repositories</h3></b>
+### 🌟 Major Players
+- **IBM Quantum** - Pioneer in quantum cloud services
+- **Google Quantum AI** - Quantum supremacy achievements
+- **Xanadu** - Photonic quantum computing
+- **Classiq** - Quantum software platform
 
-https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources
+---
 
-https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+## 📡 Research & Papers
 
-https://github.com/grageragarces/Quantum-tech-papers
+### 📰 Latest Research
+- 📑 [Quantum Tech Papers Collection](https://github.com/grageragarces/Quantum-tech-papers)
+- 📑 [Top Quantum Algorithms Papers](https://pennylane.ai/blog/2025/06/top-quantum-algorithms-papers-spring-2025)
 
-https://www.qucode.in/quresource.html
+---
 
-https://github.com/qucode-in/21-Days-Challenge
+## 🎧 Podcasts & Media
 
-https://www.qucode.in/quresource.html
+### 🎙️ Stay Updated
+- 🎧 [Quantum Computing Podcast](https://youtu.be/PHpybk5AbMQ?feature=shared)
+- 🎧 [Spotify Quantum Discussions](https://open.spotify.com/episode/1TFpAPoj8fySIyuXnblZkk)
 
-https://github.com/hywong2/Quantum_Computing_Architecture/tree/main/Teaching%20Slides
+---
 
+## 🔗 Additional Resources
+
+### 📚 Other Quantum Repositories
+- [Quantum Computing Collection](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources)
+- [Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+- [21-Days Quantum Challenge](https://github.com/qucode-in/21-Days-Challenge)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the quantum community! Feel free to:
+- 🍴 Fork this repository
+- ➕ Add new resources
+- 🐛 Report issues
+- 💡 Suggest improvements
+
+---
+
+## 📞 Connect With Us
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-kaur-raina-b2922622a)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@natashiakaurraina)
+  
+</div>
+
+---
+
+<div align="center">
+  <h3>🌟 Star this repository if you find it helpful! 🌟</h3>
+  <p><em>Together, let's build the quantum future!</em></p>
