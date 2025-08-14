@@ -170,6 +170,10 @@ https://pennylane.ai/blog/2025/06/top-quantum-algorithms-papers-spring-2025?utm_
 
 ---
 
+<b><h3>Quantum Games</h3></b>
+https://www.quplays.com/
+
+---
 
 <b><h3>Quantum Internships</h3></b>
 
