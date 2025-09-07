@@ -365,6 +365,8 @@ https://open.spotify.com/episode/1TFpAPoj8fySIyuXnblZkk
 
 https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources
 
+https://github.com/BoltzmannEntropy/polarization
+
 https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 https://github.com/grageragarces/Quantum-tech-papers
